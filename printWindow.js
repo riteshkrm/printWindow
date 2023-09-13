@@ -1,4 +1,4 @@
 
-print() => {
+function print(){
     window.print()
-}
+};
