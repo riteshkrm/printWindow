@@ -1,0 +1,4 @@
+
+print() => {
+    window.print()
+}
